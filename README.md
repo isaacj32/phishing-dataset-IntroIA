@@ -9,3 +9,4 @@ Los datos provienen de la siguiente base de datos de archivos: https://www.kaggl
 
 ## Videos
 - Entrega No.2 https://youtu.be/I9bgy_XQh8w
+- Entrega final https://youtu.be/tnBhj7TahlY
